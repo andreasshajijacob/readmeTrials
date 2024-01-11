@@ -23,7 +23,7 @@ trying to learn readme.md
 
 **To place a url put the page name in square brackets [] and place the url in parenthesis()**
 
-This page is created by [github](https://pages.github.com)
+This page is created on [github](https://pages.github.com)
 
 
 This is  code segment
